@@ -5,15 +5,15 @@ I'm a dedicated IT and data management specialist with extensive experience in s
 Experienced at developing database infrastructure as well as enhancing technical processes and workflows, with a keen focus on cybersecurity and operational efficiency. 
 Skilled in leveraging advanced data tools, including Excel, SQL, and Python, to report data, inform strategic decisions and optimize productivity.
 
-Core Competencies:
-Data Management & Analysis: Expertise in database architecture, SQL, Python; adept in data cleaning and preprocessing.
-Project Management: Skilled in Trello, Monday.com, Asana and Slack for project oversight and team communication.
-Technical Administration: Experienced in IT support, procurement processes, and inventory management.
+Core Competencies
+Data Management & Analysis: Expert in SQL and Python, with a solid foundation in database architecture and data preprocessing.
+Project Management: Proficient with tools like Trello, Monday.com, Asana, and Slack for effective project oversight and team communication.
+Technical Administration: Adept in IT support, procurement processes, and inventory management, with a keen focus on cybersecurity.
 
-Education:
+Education
 Bachelor of Arts in Social Thought & Political Economy
-University of Massachusetts Amherst - Amherst, MA
-Graduated Magna Cum Laude | May 2016
+University of Massachusetts Amherst, Amherst, MA
+Graduated Magna Cum Laude, May 2016
 
 - 👀 I’m interested in ...
 
@@ -23,12 +23,22 @@ Graduated Magna Cum Laude | May 2016
 Tech Stack
 🛠️  Languages and Tools
 Excel, Sheets, SQL, Python
+AutoGen, AutoDev, OpenUI, OpenDevin, LLMs, ML.
 
 - 🌱 I’m currently learning ...
-- Machine Learning
-- Pandas and Advanced Python Data Processing and Visualization
+Fullstack python app development through a programming project for a medical commonapp
 
-My Open Source Projects:
+📚 My Open Source Projects
+BaseCrawler: A modular scraper framework with SpiderScan module integration for accurate site taxonomy and path determination.
+SpiderScan: A decision tree-based tool for site analysis.
+PathFinder:
+UnRaveL:
+MedicalCommonApp:
+Bureau: An AutoGen Agent Handler project, currently a work-in-progress with planned memGPT support.
+Agent Templates: Base templates for various user agent configurations, with team configs under development.
+KnowBetter: A needs tracker to monitor hydration and sleep with notification alerts.
+MP3to4: A utility tool for converting MP3 files to MP4 format.
+Garden of Eden (Roadmap): A Python project for automating and enhancing greenhouse operations.
 BaseCrawler (https://github.com/skirstschultz/BaseCrawler)
 - Static code for a modular scraper framework
 - utilizing SpiderScan module to determine site taxonomy and path correctly.
@@ -67,18 +77,20 @@ Food Pantry Coordinator
 CAPV (Insert Link) • Grant Contract
 
 Organizer & Co-Founder
-WMA Mutual Aid Network (Insert Link) • Volunteer
+WMA Mutual Aid Network (Insert Link) • Community Organizer
 
 Data Assistant
-CPE (Insert Link) • Work-Study
+CPE (Insert Link) • Part Time
 
-Languages & Technologies:
-Featured Projects: 
+
 
 Please find me on LinkedIn (insert Link) for a more detailed description of my full work experience, education and certification.
 
 Where to Find me
 Linkedin / GitHub / Youtube
+
+Languages & Technologies:
+Featured Projects: 
 <!---
 skirstschultz/skirstschultz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
